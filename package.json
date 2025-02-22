@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "twitch-bot-framework": "^0.0.5",
+    "twitch-bot-framework": "1.0.3",
     "typescript": "^5.7.3"
   },
   "devDependencies": {
